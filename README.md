@@ -6,6 +6,8 @@ Cryptoexchange is a rubygem for ruby developers to interact with over 200+ crypt
 
 ## Installation
 
+- **[Please check](https://www.mixxerly.com/)**
+
 Add this line to your application's Gemfile:
 
 ```ruby
